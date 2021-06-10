@@ -1,0 +1,5 @@
+Early ones were really simplistic and just pointed the missile to the hottest thing it sensor could detect, be that a planes exhaust, the sun or flares (decoys). They had limited steering ability and only worked when shot at a plane from behind it (called "rear-aspect"), and even then weren't that reliable.
+
+Modern ones are much much more sophisticated. They have high-resolution infrared cameras, can detect and track planes from all angles, ignore flares, plot efficient intercept courses, are much more manouvrable and fully integrated into the planes targeting systems.
+
+A modern AIM-9X for example can be given targeting data from the planes radar or helmet mounted sight prior to launch and can track a target up to 90° to the sides (of boresight), allowing pilots to shoot at targets without having to point their own planes nose even close to it.
