@@ -16,8 +16,16 @@ import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
+/**
+ * Serves as the end point for lucene search
+ *
+ * @author Anupam Devulapalli
+ *
+ */
+
 @Controller
-@CrossOrigin ( "http://localhost:8081" )
+@CrossOrigin ( "http://localhost:4200" ) // 4200 is the port for the angular
+                                         // container
 public class SearchController {
     @Autowired
     SearchService searchService;
@@ -39,6 +47,7 @@ public class SearchController {
         }
         catch ( ParseException | IOException e ) {
             System.out.println( e.getMessage() );
+            // Returning empty list with failed status in case of error
             return new ResponseEntity<List<String>>( new ArrayList<>(), HttpStatus.EXPECTATION_FAILED );
         }
     }

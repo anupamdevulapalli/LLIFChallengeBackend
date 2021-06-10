@@ -8,10 +8,19 @@ import java.nio.file.Paths;
 import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 
+/**
+ * Upload service
+ *
+ * @author Anupam Devulapalli
+ *
+ */
 @Service
 public class UploadService {
     private final Path root = Paths.get( "uploads" );
 
+    /**
+     * Initializes the folder where all the files will be stored
+     */
     public void init () {
         try {
             if ( !Files.exists( root ) ) {
@@ -25,6 +34,12 @@ public class UploadService {
 
     }
 
+    /**
+     * Saving the file service
+     *
+     * @param file
+     * @return the full path of the file
+     */
     public Path save ( MultipartFile file ) {
         try {
             Files.copy( file.getInputStream(), this.root.resolve( file.getOriginalFilename() ) );

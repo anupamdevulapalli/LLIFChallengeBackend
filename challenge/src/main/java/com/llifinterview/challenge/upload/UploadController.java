@@ -14,7 +14,8 @@ import org.springframework.web.multipart.MultipartFile;
 import com.llifinterview.challenge.search.SearchService;
 
 @Controller
-@CrossOrigin ( "http://localhost:8081" )
+@CrossOrigin ( "http://localhost:4200" ) // 4200 is the port for the angular
+                                         // container
 public class UploadController {
     @Autowired
     UploadService uploadService;
@@ -26,8 +27,10 @@ public class UploadController {
     public ResponseEntity<ResponseMessage> uploadFile ( @RequestParam ( "file" ) MultipartFile file ) {
         String message = "";
         try {
-            final Path uploadedPath = uploadService.save( file );
 
+            // Saving a local copy
+            final Path uploadedPath = uploadService.save( file );
+            // Adding it to the index
             searchService.addToIndex( uploadedPath );
             message = "Uploaded and Indexed the file successfully: " + file.getOriginalFilename();
 
@@ -39,6 +42,10 @@ public class UploadController {
             return ResponseEntity.status( HttpStatus.EXPECTATION_FAILED ).body( new ResponseMessage( message ) );
         }
     }
+
+    /**
+     * Unsuccessful implementation for accepting multiple files together
+     */
 
     // @PostMapping ( "/uploads" )
     // public ResponseEntity<ResponseMessage> uploadFiles ( @RequestParam (

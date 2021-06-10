@@ -9,7 +9,6 @@ import org.apache.lucene.analysis.Analyzer;
 import org.apache.lucene.analysis.standard.StandardAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
-import org.apache.lucene.document.LongPoint;
 import org.apache.lucene.document.StringField;
 import org.apache.lucene.document.TextField;
 import org.apache.lucene.index.DirectoryReader;
@@ -26,6 +25,12 @@ import org.apache.lucene.store.Directory;
 import org.apache.lucene.store.FSDirectory;
 import org.springframework.stereotype.Service;
 
+/**
+ * Search service
+ * 
+ * @author Anupam Devulapalli
+ *
+ */
 @Service
 public class SearchService {
     private final Path        index    = Paths.get( "indexedFiles" );
@@ -34,6 +39,9 @@ public class SearchService {
     private IndexWriter       writer   = null;
     private IndexSearcher     searcher = null;
 
+    /**
+     * Initializes the folder where all the indexed files will be stored
+     */
     public void init () {
         try {
             if ( !Files.exists( index ) ) {
@@ -55,6 +63,12 @@ public class SearchService {
         return this.searcher;
     }
 
+    /**
+     * Adding the file to index
+     *
+     * @param file
+     * @throws IOException
+     */
     public void addToIndex ( Path file ) throws IOException {
         direc = FSDirectory.open( index );
         this.iwc = new IndexWriterConfig( getAnalyzer() );
@@ -63,12 +77,19 @@ public class SearchService {
         final Document doc = new Document();
 
         doc.add( new StringField( "path", file.toString(), Field.Store.YES ) );
-        doc.add( new LongPoint( "modified", Files.getLastModifiedTime( file ).toMillis() ) );
         doc.add( new TextField( "contents", new String( Files.readAllBytes( file ) ), Field.Store.YES ) );
         writer.updateDocument( new Term( "path", file.toString() ), doc );
         writer.close();
     }
 
+    /**
+     * Using basic lucene to search for specific query
+     *
+     * @param query
+     * @return
+     * @throws ParseException
+     * @throws IOException
+     */
     public TopDocs searchWithQuery ( String query ) throws ParseException, IOException {
         // For searching the indexed files
         searcher = new IndexSearcher( DirectoryReader.open( FSDirectory.open( index ) ) );

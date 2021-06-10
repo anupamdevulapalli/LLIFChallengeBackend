@@ -1,0 +1,1224 @@
+A modern AIM-9X for example can be given targeting data from the planes radar or helmet mounted sight prior to launch and can track a target up to 90° to the sides (of boresight), allowing pilots to shoot at targets without having to point their own planes nose even close to it.
+
+and thats just what unclassified, official data says. Actual capability is most probably higher than that still.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] 4 hours ago 
+Classified information is normally very specific. Entire capabilities normally wouldn't be classified. Instead, individual numbers like the total engine burn time, fuse detonation time, or turning radius might be classified. You'd be surprised just how much is public knowledge, especially with older weapon systems.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Speffeddude [score hidden] 3 hours ago 
+Thank you specifically naming some parameters of interest! I write technical sci-fi in my free time, and have an active interest in military tech, so knowing "this is the important bit" is very interesting to me.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] 3 hours ago* 
+You can generally guess the classified parameters of a system. If it's an engine, the thrust vectoring angle might be classified, or maybe the thrust. Notice for the F35's F135 engine, the Pratt & Whitney product page only states that it provides "more than 40000 lbs" of thrust. I'd assume the exact number is classified. On any communications systems, I'd assume the range and frequency are classified, at the very least. Basically, look at any classified system. Any and all of the specific operating parameters are probably classified.
+
+Edit: The F135 engine is used on the F35, not the F22.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]RedneckNerf [score hidden] 2 hours ago 
+There's a similar system for spy satellites. The exact model of satellite in question won't be identified, but based on what obit it's going to and which launch vehicle is used, you can make an educated guess.
+
+For instance, if something is going into near polar orbit (ie. Launching from Vandenberg) and is riding a Delta IV Heavy, you can make the educated guess that it's probably around 20 tons.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Hologram22 [score hidden] an hour ago 
+And this is why the government pounds OPSEC/INFOSEC into us worker bees all of the time. It's very easy to figure out classified details if given enough unclassified pieces of the puzzle. So we're told to limit disclosure of unclassified information as much as possible to thwart such attempts.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]RedneckNerf [score hidden] an hour ago 
+It's a bit harder to hide those thing with rocket launches. The payload capability of the rocket is going to be public knowledge (commercial launches and all that) and the target orbit is gonna be clear based on where you're launching from.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Hologram22 [score hidden] an hour ago 
+Totally, and not everything can be hidden from FOIA, etc. Sometimes you just can't help disclosing certain information. It doesn't mean that you can't be vigilant and try your best.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]-hosain- [score hidden] an hour ago 
+"If your colleague can figure out what you're saying, so can the adversary"
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Delta-9- [score hidden] an hour ago 
+Funny that they understand this concept, that various nodes of disparate data can be used to eliminate nearly all possible relationship nodes to reveal something they didn't want someone to know, when it comes to their expensive toys. They seem pretty oblivious to this concept when it comes to the need for consumer protections from data mining companies like Google and Facebook.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Hologram22 [score hidden] an hour ago 
+That's the difference between Congress writing a new statute and the Executive using existing statutes to build a regulatory framework execute the law to the best of its ability. We can stomp and scream about the need to do a thing all day long, but if there's no way to do it under current laws then nothing will be done. Congress is the issue here. Vote for every office in every election.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]thrashV_TTV [score hidden] 48 minutes ago 
+The government as it pertains to defense is not the same as the government as it pertains to the corporatocracy
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Delta-9- [score hidden] 14 minutes ago 
+Very true, and worth remembering that the government is not a monolith (for better and worse).
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ReadItWithSarcasm [score hidden] 41 minutes ago 
+We’re watching you... careful with the information you post on public forums, bub.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Baneken [score hidden] an hour ago 
+The most telling was when Trump released unclassified or nonblurred images taken from spysatellites to media ...
+
+It immediately told anyone with half a brain how precise and what sort of optics have been used in those satellites and even which ones have them equipped.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]RedneckNerf [score hidden] an hour ago 
+That was from a KH-11, which is kinda an open secret at this point. It's basically a Hubble pointed at Earth. When the Hubble was being built, someone goofed and publicly stated that it shared a lot of parts with recon satellites.
+
+As a side note, these are probably the roughly 20 ton sats launched from Vandenberg.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Baneken [score hidden] 1 hour ago 
+Reminds me of the anecdote about NASA having some issues with financing for an imaging satellite and they kinda asked around and someone in NSA, CIA or some other 3 letter said "sure we have like 6 old ones in storage that we don't need" and it turned out they were far better then any of the civilian satellites NASA had used or could procure previously.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ubiquitous_uk [score hidden] an hour ago 
+TIL. Don't know why, but I just assumed NASA would have made the government satellites whether they were classified or not.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]RedneckNerf [score hidden] an hour ago 
+Another fun one is the Vostok spacecraft that carried Yuri Gagarin into space. The only way Sergei Korolev could secure funding to put the first man into space was to make the capsule double as the Zenit spy satellite.
+
+permalinkembedsaveparentreportgive awardreply
+continue this thread
+load more comments (2 replies)
+
+[–]mfb- [score hidden] an hour ago 
+You could look up the resolution of that satellite on Wikipedia - years before that image was released. Many news authors acted all surprised, but it wasn't really revealing anything new. It was an actual picture confirming what had already been gathered from other sources, sure.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]NetworkLlama [score hidden] an hour ago 
+They weren't surprised at the image quality. They were surprised that it would be released, especially so casually when there was no need to do so.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Baneken [score hidden] an hour ago 
+No but it confirmed the facts that current satellites were indeed that good. Not worse or better but precicely how accurate, previous numbers and predictions in wiki et al. were still just educated guesses.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (2 replies)
+
+[–]asmrhead [score hidden] an hour ago 
+The F-22's engine is the F119. The F-35 uses the F135 engine.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] an hour ago 
+You're correct, I misread. I'll edit.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ztupeztar [score hidden] an hour ago 
+This might be a dumb question, but why though? What can the enemy do with the knowledge of the exact number of trust that they can't do with "more than 40000 lbs" combined with educated guesses?
+
+EDIT: missed a zero
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] an hour ago* 
+Well, the specific thrust might actually be significantly higher than 40000. Maybe it's 60000. Maybe that specific thrust is indicative of a minimum takeoff distance, which would allow you to determine whether a specific model aircraft with weight x would be able to take off from a given runway of length y at a given airbase. Maybe it would allow you to analyze which weapons said aircraft could possibly be carrying based on maximum allowable weight, maybe how much fuel.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]keinespur [score hidden] an hour ago 
+Design engagement parameters for visual range engagements.
+
+F-22's weight isn't classified (it's 43,430 lbs), unloaded 65k lbs gross, with a MTOW of 83.5 lbs. It's listed thrust to weight ratio is 1.09 (1.25 in a combat configuration), but two F119 power plants providing 80,000 lbs of thrust gives its real thrust to weight ratio of at least 1.30.
+
+This, along with wing loading, very closely define its maneuverability and acceleration abilities across the entire flight profile.
+
+So if you're an adversary, you can define and train well in advance "We only engage with this target when various parameters are in our favor, and we disengage and run away when they are not."
+
+Presumably both sides do this, so whoever has the most accurate data can make the most accurate decisions about when to engage or not, and whoever doesn't will make faulty decisions leading to tactical losses at the beginning of the engagement.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]VulgarDisplayofDerp [score hidden] 49 minutes ago 
+Well it can help you determine whether you can hang with a MiG-28 doing a 4g negative dive while inverted... For instance
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Betwixts [score hidden] an hour ago 
+Frequency always in my experience, the range is pretty easy to determine.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] an hour ago 
+The range would be directly related to the power of the system, which would also be classified.
+
+Discoverability isn't a factor when determining the classification level of a piece of information. For example, the operating frequency of a radar is easily discoverable. Get an antenna, sit next to a radar test range, and collect leakage radiation. Run a Fourier Transform on the collected data and your operating frequency will probably be 20-40 dB above everything else you collected.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Betwixts [score hidden] an hour ago 
+The range would be directly related to the power of the system, which would also be classified.
+
+Yeah but everyone knows / can figure it out.
+
+Discoverability isn't a factor when determining the classification level of a piece of information.
+
+Yeah. But understanding the discoverability of something takes the woo out of classifications, especially higher tier classifications.
+
+Most of what is classified is due to how it is collected, not the material itself. Obviously when you’re talking specifically about capabilities that’s different.
+
+For example, the operating frequency of a radar is easily discoverable. Get an antenna, sit next to a radar test range, and collect leakage radiation. Run a Fourier Transform on the collected data and your operating frequency will probably be 20-40 dB above everything else you collected.
+
+I thought we were talking about ATA and ATG weapons systems?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] an hour ago* 
+I wasn't specifically talking about ATA and ATG. For example, I also mentioned the P&W F145 engine, and many GTA missiles are radar-assisted. I'm just talking about classification in general.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Betwixts [score hidden] an hour ago 
+Ah ok
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ReadItWithSarcasm [score hidden] 42 minutes ago 
+Communication bandwidths, frequencies, and especially codes to encode/decode information are classified as well.
+
+That, and the satellites or other equipment they communicate with are also classified.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]NexusPatriot [score hidden] an hour ago 
+So why not just mark general specifications or subgroups as entirely classified?
+
+Why allow anybody to guess at all?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] 56 minutes ago 
+A few possible reasons. First, it would make doc control's job a living hell. Every individual classified document is actively tracked and controlled, whether physical or digital. This is a painstaking process. The more broadly you classify something, the harder it becomes to maintain secrecy and even just communicate about the thing. Second, when you encounter something classified, you generally take extreme precautions to remind yourself it's classified. You have to be very deliberate and conscious when conversation steers near that info. The more of that there is, the heavier the burden you place on your employees. People don't like having criminal penalties hanging over every word. Third, it might misdirect enemies. If they think the engine is ~40k lbs and design a weapons system to counter it, but it's actually 60000 lbs, you just made them invest money in a worthless system. Fourth, you'd be creating all of these issues to protect unimportant information. An engineer could probably look at the plane, guess the approx weight and, given the plane's top speed from videos or some other source, calculate the approximate thrust of the engine to some degree of precision.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (7 replies)
+
+[–]jseego [score hidden] an hour ago 
+Interesting tidbit from software development: programmers who work on missile guidance can tolerate memory leaks on the missile firmware, as long as the system doesn't crash before the missile does.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ErikTheAngry [score hidden] 1 hour ago 
+Just need to avoid the missile until flashplayer soaks up too much memory and can't react fast enough anymore, got it.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]jseego [score hidden] an hour ago 
+RIP Flash, I loved it so.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ErikTheAngry [score hidden] 11 minutes ago 
+I work in IT. I fucking hate flashplayer. With such a god damned passion. It and Java can both go fuck a rotten coconut.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]VertexBV [score hidden] an hour ago 
+This sounds like lazy programmers/management, or an urban legend - not sure how that would pass certification. Missiles can be powered up way before being fired, if they're even fired at all.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]keinespur [score hidden] an hour ago 
+I can't speak for missiles guidance, but I have first hand experience in other fields with an unmitigable leak that was just handled by restarting the system in question periodically.
+
+Without details that does indeed sound like the lazy solution, but it was in 3rd party software and it wasn't fixable in vivo so we had to tolerate and work around it.
+
+The support email I got in response is the only time I would have genuinely punched someone in my professional career if they'd been in the same room. A senior programmer at culprit vendor responded to me "This isn't a memory leak, these are simply resources that are no longer tracked and will be recovered the next time the system is shut down."
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]jseego [score hidden] an hour ago 
+LOL
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]mattm220 [score hidden] 58 minutes ago 
+I’m not savvy on the details of programming firmware (early EE student), but isn’t what the programmer described exactly what a memory leak is?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]keinespur [score hidden] 56 minutes ago 
+That's what that senior programmer described, yes. It's impossible to describe how infuriating that was.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]beipphine [score hidden] 44 minutes ago 
+A leak is unintentional, this programmer is intentionally just dumping his garbage everywhere because it is easier for him. In a way its worse than a leak because he knows the problem and knows the solution, but is too cheap/lazy to implement it.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (2 replies)
+
+[–]VertexBV [score hidden] an hour ago 
+Yikes! But hey, if the end user doesn't care about it...
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]jseego [score hidden] an hour ago 
+https://devblogs.microsoft.com/oldnewthing/20180228-00/?p=98125
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]VertexBV [score hidden] an hour ago 
+If that's even remotely true, that could partly explain the shitty Pk in early missiles.
+
+By the way, automatic/framework-initiated garbage collection is usually a no-no in real time applications.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Autarch_Kade [score hidden] 17 minutes ago 
+I'm reminded of submarine propellers, which even get covered up in port so pictures can't be taken of them. With photos of the propeller, people can figure out the physical measurements of the blades, and even the unique acoustic signature of it which can be used to track that specific submarine.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Duel_Loser [score hidden] 2 hours ago 
+If you've ever been to an airplane museum, notice how nobody is allowed in the cockpit of a B-2. This is because the instrument panel will tell you a lot more than the outside ever could. Intake and exhaust are also frequently covered on various aircraft for the same reason.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]UEMcGill [score hidden] 2 hours ago 
+Intake and exhaust are also frequently covered on various aircraft for the same reason.
+
+If it's in a museum it's because there's noting in there. If it's an operational aircraft its to keep FOD out of the engines. It's not that nefarious.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Mr06506 [score hidden] an hour ago 
+One big exception is submarine propellers, you'll almost never see a photograph of an operational subs props / screws / whatever they call them.
+
+Even at big launch ceremonies, they'll be wrapped in what looks like giant, overpriced bubble wrap.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]veloace [score hidden] 2 hours ago 
+What airplane museum has a real B-2?
+
+Cuz I’d like to visit it.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]LtNOWIS [score hidden] 2 hours ago 
+None. The only B-2 on display is a static test model, built without engines or instruments. It's in the Air Force Museum in Dayton, Ohio.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]veloace [score hidden] 2 hours ago 
+That’s what I thought, I didn’t think there was any real B-2 on display yet….I was under the impression that it was too expensive of an airframe for them to commit one to a museum when they only have 12 or so in service.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]toodlesandpoodles [score hidden] 2 hours ago 
+https://www.nationalmuseum.af.mil/Visit/Museum-Exhibits/Fact-Sheets/Display/Article/195832/northrop-b-2-spirit/
+
+I keep meaning to go there.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]sweetplantveal [score hidden] 2 hours ago 
+Dayton, OH
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]veloace [score hidden] 2 hours ago 
+I need to go there too. There’s a lot of stuff there that I have been wanting to see, I just didn’t know they had a B-2 as well.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]returntoglory9 [score hidden] an hour ago 
+Thank you for bringing specific insight to the conversation to help correct the common "technology is actually 20 years more advanced than we know" trope
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] an hour ago* 
+I think that statement is still relatively valid, but not due to classification. A huge problem with research is viability. We could make a room temperature superconductors, but it may not be commercially viable for another 15 years. The commercial/consumer environment is quite rough on technology. Neither consumers nor companies want to pay for upkeep. They're going to cut corners and costs. They want a robust, mature product. If you try to sell them a brand new cutting edge quantum computer, but you can't move or touch it while you're using it because you haven't quite worked out the memory isolation yet, it won't sell. So while some things are possible today , they won't be commercially viable for 10-20 years.
+
+Edit: a great example of this is battery technology. New battery tech is published every year, but we still use shitty disposable chemical batteries. Look up nanowire batteries. In 2018, there were tons of pop-sci articles claiming they'd replace lithium. Guess what, they're expensive to manufacture. Therefore, no gold nanowire batteries yet.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]DominusEbad [score hidden] 3 hours ago 
+A lot of the "how" is classified, such as the software that is involved.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]incredible_mr_e [score hidden] an hour ago 
+I used to work with classified gear, and I always compared it to a lawnmower manual. Sure, we classified the manual so you can't look up the specific specs and what all the parts are, but it's not hard to look at a lawnmower and get a pretty good idea of what it does.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Gullible-Emotion-306 [score hidden] 34 minutes ago 
+People don't give enough credit to the tech around them too. They want some extra next level thing. But like, look at what you can buy off the shelf. A modern US hobbyist probably has more tech capability than goverments did XX years ago. (DODX redacted. sorry)
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] 3 hours ago 
+I mean, the software will be on a classified system, but most of the files themselves won't be classified. Only the ones containing the actual secrets will be. If the project is well-maintained, there will be a file for all the secret shit so you don't have to worry about the rest of your files potentially containing something classified.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]GCSS-MC [score hidden] 2 hours ago 
+Additionally, sometimes things are classified, not because of what the information is, but rather how the information is attained, or how the technology is works or was made.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Gullible-Emotion-306 [score hidden] 37 minutes ago 
+People use classified as a scifi fantasy mechanism in their heads I feel. The factbook on the cia website has juicier info than a lot of people realize.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Meastro44 [score hidden] 3 hours ago 
+You’d be surprised how much the Chinese know, even with brand new systems that haven’t been deployed.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] 3 hours ago 
+I don't think I would. Honeywell really screwed the pooch w/ the f35 for example. Classified info gets released improperly all the time. The funny part is, a lot of the time you won't realize it was classified in the first place.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]TheInfernalVortex [score hidden] 2 hours ago 
+And to make it even more weird, you cant divulge classified information that you know, even if it's common knowledge. So other people may know it and can repeat it, but you wouldnt be able to.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ghawk134 [score hidden] 2 hours ago 
+Can neither confirm not deny the existence of that information ;)
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]UEMcGill [score hidden] an hour ago 
+And to make it even more weird, you cant divulge classified information that you know, even if it's common knowledge
+
+In the US you can't divulge non-classified information to certain foreign nationals, or foreign nationals acting on the behalf of prohibited governments.
+
+Even as an Engineer, working for a European Company, I have a legal duty to take into account if all the participants talking in a meeting are US citizens or legal residents if the info may be for export.
+
+US Import/Export law is little known but can have some serious repercussions.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]VertexBV [score hidden] an hour ago 
+https://www.justice.gov/nsd/page/file/1044446/download
+
+It's a fun read.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]SaltyPilgrim [score hidden] an hour ago 
+Also consider that even if you have a bunch of unclassified knowledge, by putting all of together you've created what is known as "aggregate" and that information, in the context of everything else, is classified.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]nucumber [score hidden] an hour ago 
+one thing i learned from the endless clinton email saga is it's not uncommon for stuff to be classified retroactively, years later
+
+a lot of the so called mishandling of classified material was stuff that wasn't classified until her emails were scrutinized years after she was no longer sec of state
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Misanthropic_Cynic [score hidden] an hour ago 
+And how do you know how much the chinese know
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Competitive_Stock912 [score hidden] an hour ago 
+Well when public companies make the toys you have to include the batteries
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]anomalous_cowherd [score hidden] an hour ago 
+In a lot if cases the info is already out there, amongst a sea of noise and wrong answers, what's classified is confirming the true value.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]zer0thrillz [score hidden] 58 minutes ago 
+Want to add on to that that the actual tactics used to employ the weapon most effectively against a variety of targets.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (12 replies)
+
+[–]arelath [score hidden] 52 minutes ago 
+Classified information is very limited and specific. It's done this way so engineers can work on things without security clearance. In a case like this, it might be classified at what range this is effective.
+
+For a good example, I worked on simulating nuclear weapons and their results on the battlefield. They gave us the models and enough information to simulate a nuclear weapon, but there was a set of co-efficents that were used in the model. The co-efficents were from real test data, but told they were really old declassified data (pre-1960, but didn't tell us the test or date). The real numbers would give very different results (like yeilds 1000x what we were seeing, but that's just a guess based on what's publicly available).
+
+The other issue is if you use classified information to create anything, that thing is now classified too. Which means classifying too much can lead to mountains of classified paperwork that gives an enemy no useful information, but creates a lot of work around handling/tracking that data.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]mileswilliams [score hidden] an hour ago 
+That's what they want you to think! It could be crap and only just about manages the stuff claimed.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]aaeme [score hidden] an hour ago 
+Indeed, those are the manufacturer's claims and the military are loath to admit they bought anything less than the best. All parties have every incentive to exaggerate.
+
+Patriot missile in the first gulf war is a prime example. Bullshit claims from the manufacturer. US military insists they're accurate even when everyone can see them failing to intercept scuds.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]gonzalolog [score hidden] 2 hours ago 
+It having unclassified stuff just lead to imagine what science for killing can achieve
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Betwixts [score hidden] an hour ago 
+You may also enjoy very small payload, small radius nuclear warheads.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]YoureGrammarWronger [score hidden] an hour ago 
+Mini nukes
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Caeremonia [score hidden] an hour ago 
+Nukelettes.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Betwixts [score hidden] an hour ago 
+There are [redacted] systems that allow for a full range of [redacted] targeting but they are very, very expensive and the system you described as well as similar ones are the most commonly used.
+
+The [redacted] ones sometimes…don’t hit the, uh, primary target.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Darksirius [score hidden] an hour ago 
+There's a saying I've always heard when it comes to tech:
+
+What we (the public) have now (computers, phones... etc) the government already had over 10+ years ago.
+
+Dunno what the truth to that is but I could believe it.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]RandomUser72 [score hidden] an hour ago 
+The classified stuff is in the avionics that do the targeting, former avionics tech for fighters.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]SilasX [score hidden] an hour ago 
+Until a hot war breaks out between countries with full-fledged air forces, we'll never know.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (3 replies)
+
+[–]Oscar-Wilde-1854 [score hidden] 2 hours ago 
+launch and can track a target up to 90° to the sides
+
+I'm now imagining the new Top Gun movie having Tom Cruise just flying in a straight line, pushing a button, and jets around him are just blowing up lmao Not even dogfighting just firing rockets. I realize even with these kind of rockets dogfighting is still a lot more complicated than that, it was just a funny image that popped into my head.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]incredible_mr_e [score hidden] an hour ago 
+Modern dogfighting would pretty much be "hey look, our computer spotted a plane waaaayyyy over there."
+
+click
+
+boom
+
+"Good job boys"
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Pizza_Low [score hidden] an hour ago 
+I wonder about that, if two similar stealth fighters , both flying along undetected at range eventually come close enough to be seen on radar, irst, or visually would that result in a dog fight? I suspect at some point, stealth will be normal amongst NATO, Russian and Chinese fighters, and so will sensors that minimize the abilities of stealth will be good enough that dogfighting will return.
+
+Shooting beyond visual range means the target gets more time to detect and evade. Plus you burn off the missiles fuel which could mean the target could possibly fly out of range. And rules of engagement often require visual confirmation of target.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]incredible_mr_e [score hidden] an hour ago 
+Would it result in a dogfight? I'm sure it would. Would it result in the classic "two planes swoop around until one of them brings its guns to bear on the other"? Probably not. My guess it that the first guy to get spotted gets blown up, and depending on his response he'll probably take his attacker with him.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]NetworkLlama [score hidden] an hour ago 
+Missiles burn off their fuel pretty fast and then coast under momentum, every adjustment reducing their died and thus range. Early Sidewinders only burned for 2.2 seconds, and modern versions don't burn much longer. The AIM-120, with a range of over 100 miles, burns only a little over ten seconds.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Duel_Loser [score hidden] 2 hours ago 
+Ace Combat 8: fire and forget
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]paul-arized [score hidden] 53 minutes ago 
+Ronco: set it and forget it!
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]jseego [score hidden] an hour ago* 
+So, the early design of the F-4 Phantom fighter jet (vietnam-era) had no guns, b/c designers assumed superior missile technology would allow the planes to just "stand off" and fire at range. Well what happens when you miss? The pilots raised hell and guns were quickly added back into the design. The F-4 ended up seeing a lot of dogfighting (even though it was not originally designed for that).
+
+Edit: https://en.wikipedia.org/wiki/McDonnell_Douglas_F-4_Phantom_II#Flight_characteristics
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]nagurski03 [score hidden] an hour ago 
+Of course, that was over 50 years ago. Electronics have gotten slightly better in the last 5+ decades
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]jseego [score hidden] an hour ago 
+Yeah, I just think it's interesting that we've come full circle on that with the F-22
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]IdontGiveaFack [score hidden] 28 minutes ago 
+The F-22 and F-35 both have guns.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]valentc [score hidden] 23 minutes ago 
+The F-22 has a gun though.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]DBDude [score hidden] 2 hours ago 
+The way the old ones worked was really amazing. Today we think just take an input and program the computer to move surfaces to follow it. But back then they had complex systems where a heat source moving from the center of a photoreceptor would cause a voltage change, and the voltage change would cause control surfaces to move.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Halvus_I [score hidden] 2 hours ago* 
+photoreceptor would cause a voltage change
+
+Thats still how we do it..just with fully integrated circuits and much more abstracted and robust processing.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]DBDude [score hidden] 2 hours ago 
+It was weirder than that. Maybe I should look it up. Various designs had slits or rotating discs in front of a single sensor to control the voltage based on the orientation of the source.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Halvus_I [score hidden] 2 hours ago 
+no, i get it. I was just kind of pointing out that we still sense via voltage change. All the little sensors in your phone work off that same principal.
+
+The crazy designs in MEMS are no less interesting.
+
+https://howtomechatronics.com/how-it-works/electrical-engineering/mems-accelerometer-gyrocope-magnetometer-arduino/
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]FolkSong [score hidden] 49 minutes ago 
+It's the next part that makes it interesting, "the voltage change would cause control surfaces to move". Modern devices insert a microprocessor and software in between those two steps, which makes it easy to process the input and send any arbitrary output control signals you want. But the old systems had to find ingenious ways to directly relate the sensor inputs to the control outputs, using only analog circuitry.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]muaddeej [score hidden] 32 minutes ago 
+It sounds amazing, but it's really pretty standard stuff as far as EE goes. I'm actually watching a video now on my lunch break about building the basics of a computer (logic gates) with transistors.
+
+https://www.youtube.com/watch?v=sTu3LwpF6XI
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]DiscussNotDownvote [score hidden] 2 hours ago 
+Your consciousness is also voltage change
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]starkiller_bass [score hidden] an hour ago 
+On this blessed day, we are ALL just voltage change
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]DiscussNotDownvote [score hidden] an hour ago 
+Is that you typing or a voltage change?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]triumph0 [score hidden] 43 minutes ago 
+Yes.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]5068616e746f6d [score hidden] 2 hours ago 
+That is a lot of computational power to be blown up
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Nytonial [score hidden] an hour ago 
+Not really, a basic £2 arm chip could handle it easy...
+
+If course it still cost 250,000 per missile, because reasons
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]RickTitus [score hidden] an hour ago 
+Im sure it takes a fortune to develop that technology, which surely gets factored into that cost
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]soundoftherain [score hidden] an hour ago 
+Making up numbers here for the sake of example, but it’s about scale.
+
+Hire 1000 developers at $200k to write the software for the iPhone, sell 10 million iPhones. Each iPhone has $20 go to the developers.
+
+Hire 100 developers to write the software at $200k for a missile. Sell 100 missiles. Each missile has $200k go to the developers.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (2 replies)
+
+[–]Oni_K [score hidden] 52 minutes ago 
+A $2 arm chip in a Raspberry Pi could fail and the outcome is that somebody has to go buy another one. A $2 arm chip failing in this means the wrong person could die. If a pilot ends up in a fight with 2 of these missiles, 2 of them better be able to successfully leave the rails, guide on the target, fuse in the right place at the right time, and inflict damage. Any one of those failing reduces the chance the pilot comes home alive. That's why it costs a few hundred grand per missile - for guaranteed success every time the button gets pushed.
+
+Bought the missile yesterday? It needs to work. Bought the missile 10 years ago and it's sat in the ammo depot until finally getting strapped to an airplane? It needs to work. The airplane the missile got strapped to got thoroughly soaked because it launched off of a carrier in the middle of a tropical storm? It better work. Missile got stored in the desert in a facility that measures 50+ degrees C on a regular basis, and got sandblasted on takeoff flying off of a desert strip? It better work. Missile is being fired from airplane flying out of Alaska at -40? It better work.
+
+Military equipment isn't just expensive because of what it can do - it's expensive because it is built to do it without an extremely low tolerance for failure, or else people could die.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]NetworkLlama [score hidden] an hour ago 
+An AIM-9X costs about $400,000. The computer in the seeker head is probably a large portion of that, but not as much as you think.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]mattgrum [score hidden] an hour ago 
+It's probably not using a £2 ARM chip. There are lot of military spec ruggedised microcontrollers that cost a lot more (but offer basically the same computing power).
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Snipen543 [score hidden] an hour ago 
+The missile itself probably costs around $30k to make in components. The real costs come from R&D/the software to do all of that
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]YoureGrammarWronger [score hidden] an hour ago 
+Someone has to make money
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Grabbsy2 [score hidden] an hour ago 
+The devils advocate in me would say that the items built need to be held to the absolute HIGHEST possible standard. A $4 arm chip could handle it, but what if there is a slight error that creates a RAM leak (? I forget what its called). You over-compensate with better and better tech to make sure that it works every time without fail. Say it can be done with 1GB RAM, you want to double it to be safe, but then you double THAT to be extra safe.
+
+If with 1GB RAM the chance of a missle going haywire and missing its target is 0.01%, then you've just unnecessarily risked the lives of not only civilians, but on the pilot (who is worth a lot more than 1GB of RAM) who, once he misses his target, could be gunned down by that enemy target he missed.
+
+Another argument I'd make is that you basically have to pretend every piece of high end military equipment is "custom made". R&D constantly has to reiterate new technologies to outperform competing super-powers technology. Sure, we could build an armada of cargo-ships outfitted with $500 SCUD missiles to invade iraq with, but if they have anything even remotely similar to Israels "Iron Dome" technology, we would be ineffective.
+
+"Iron Dome" technology ain't cheap, either, so building a brand-new missile that can out-maneuver and/or sneak past the "Iron Dome" tech is important, and worth every penny, if you can effortlessly take out specific targets against an enemy with that tech. (Not that we would, its likely that the US helped Israel design and maintain that tech)
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]OpenTTDiddy [score hidden] an hour ago 
+It still doesn't justify how expensive it is. Consider this: a basic hellfire missile costs 5 times as much as a vikhr missile with only marginal improvements (including the performance you laid out like reliability accuracy etc)
+
+Sadly the price is still overvalued
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]catkoala [score hidden] an hour ago 
+To do the literal rocket science for a missile that has high-resolution infrared cameras, can detect and track planes from all angles, ignore flares, plot efficient intercept courses, be much more manouvrable and fully integrated into the planes targeting systems? Duh
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]BoldeSwoup [score hidden] 8 minutes ago 
+If anything but armament : cash injection into the economy by government is unacceptable, we're not commies, we don't do subsidies to support an industry.
+
+If armament : reasonable and necessary expense, helping the job market, my reelection and the economy at large.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]GoldenShadowGS [score hidden] an hour ago 
+This video shows some techniques used to defeat seeking missiles.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Bradleykingz [score hidden] an hour ago 
+Thank you very much.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]flagbearer223 [score hidden] 27 minutes ago 
+Dang, that was really interesting!
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]nyanlol [score hidden] an hour ago 
+then how do you dodge the thing if one is after you? just outfly it?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]baseplate36 [score hidden] 57 minutes ago 
+Old missiles would only track and fly towards a heat source, so a sharp turn while the missile is some ways away will leave it flying near perpendicular to you and tracking the back of your plane, making it extremely easy for the missile to miss. Other methods of evasion would be to fly in such a way that you put your self between the missile and the sun, which puts out much more ir energy and the missile will switch target to the sun. Alternatively, the missile only has seconds of fuel so if you have an altitude advantage over the missile when it's launched it will be more difficult for it to buildup speed and will simply fall out of the sky if it doesn't have enough speed to keep flying. Modern missiles can negate the first 2 evasion methods by calculating intercept paths and being able to distinguish between the ir signature of the plane engine and other sources
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]KlittanW [score hidden] 56 minutes ago 
+You pop flares to try and fool it. If that doesn't work you try and out fly it. This is done by flying in a pattern that makes the missile turn a lot, losing a lot of kinetic energy. Hoping that the missile runs out of energy before it gets to you.
+
+Last resort: Pull the handle and take a relatively slow fall to the ground.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]nyanlol [score hidden] 43 minutes ago 
+aaah because unlike the fighter that missile only has so much juice to fly cause most of its weight is high explosive?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]KlittanW [score hidden] 39 minutes ago 
+Exactly.
+
+Most missiles use a rocket for propulsion and there is only room for a few seconds of burn time.
+
+The advantage is that the rocket engine accelerates the missile to a much higher speed than the aircraft.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Yogymbro [score hidden] an hour ago 
+Modern ones could even have cameras and software to tell them "that's a plane", "that's a tank", or "that's an AA installation" and target that way.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]DeleteObsolete [score hidden] 2 hours ago 
+They have high-resolution infrared cameras, can detect and track planes from all angles, ignore flares, plot efficient intercept courses, are much more manouvrable and fully integrated into the planes targeting systems.
+
+This reads like the generic arms dealer villain pitching his latest superweapon to a generic middle-east dictator/terrorist.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]twoturnipsinheatt [score hidden] 2 hours ago 
+This is fascinating and terrifying.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]molestaltarboys [score hidden] 2 hours ago 
+Not OP but interesting read thanks for that!!
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]DowntownTumbleweed9 [score hidden] an hour ago 
+just pointed the missile to the hottest thing it sensor could detect, be that a planes exhaust, the sun or flares (decoys).
+
+That probably backfired a ton
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]baseplate36 [score hidden] 55 minutes ago 
+Not really, pilots knew the capabilities of the missile and were trained on how to use it effectively so it wouldn't risk friendly fire
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ricky_RZ [score hidden] 53 minutes ago 
+It actually did.
+
+Submarines also had torpedos that would go towards the loudest thing in front of them. If they didn't find anything, they would go in a circle until they tracked something.
+
+But your own submarine could be what it tracked
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]skwog [score hidden] an hour ago 
+Here's a Curious Droid video on how they work. https://www.youtube.com/watch?v=TGTOVA3tWpQ
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]KlausFenrir [score hidden] an hour ago 
+Modern ones are much much more sophisticated. They have high-resolution infrared cameras, can detect and track planes from all angles, ignore flares, plot efficient intercept courses, are much more manouvrable and fully integrated into the planes targeting systems.
+
+How much would one missile cost?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]KlittanW [score hidden] 52 minutes ago 
+According to Wikipedia slightly less than $400k per missile.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (2 replies)
+
+[–]mattgrum [score hidden] an hour ago 
+They had limited steering ability and only worked when shot at a plane from behind it (called "rear-aspect"), and even then weren't that reliable.
+
+Even so missiles like the AIM-9 Sidewinder were groundbreaking when they were released and represented a significant strategic advantage over non-guided missiles.
+
+Unfortunately for the US, one missile shot at a Chinese jet failed to detonate and got stuck in the fusalage. They were able to land the jet and sent the missile to Russia who reverse engineered and reproduced the design.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]EmirSc [score hidden] 58 minutes ago 
+Al for $600,000 each
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]hvanderw [score hidden] 55 minutes ago 
+Have planes defences matched the increased missile tech?
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (5 replies)
+
+[–]alkiap [score hidden] 3 hours ago 
+One thing usually gotten wrong in movies is that most missiles, including many if not all heatseekers, have a rocket engine that burns only for the first few seconds of flight. Hence, kinetic energy of the missile starts getting lower once the engine shuts off, and the missile is less maneuverable and therefore has a lower chance of hitting a maneuvering target at longer range.
+
+Therefore, maximum range and maximum effective range can be quite different. Some missiles do have sustainer rocket engines to maintain propulsion over a longer period of flight but I can't think of any heatseeker missiles with sustainerers.
+
+permalinkembedsavereportgive awardreply
+
+[–]fiendishrabbit [score hidden] an hour ago* 
+There are a couple of long range heatseeking missiles that are designed for use against ballistic missiles, but otherwise heatseekers tend to be short range missiles (where a sustaining rocket would just add weight and reduce maneuverability).
+
+P.S: And "the first few seconds of flight" is still typically 25-50% of the missiles total flight time to target.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]dvinpayne [score hidden] 2 hours ago 
+I still haven't seen an explanation of the "heat-seeking" logic of the problem that I really like so here's my attempt.
+
+Starting with the old IR (infrared) missiles it's fairly simple. If you take an IR camera and point it at the back of an engine it there will be a very obvious hot spot. (https://youtu.be/2C6ZcqeIvjw). Because the difference in temperature between the engine/its exhaust and the environment is so large its easy to identify that as a targeting point. That is why the earliest missiles could only be fired from directly behind the target where they could see directly into the engine where the largest temperature difference would be. Then versions were made where they could detect the difference using just the exhaust instead of the engine core which greatly expanded the angles they were usable from, but still weren't effective if the exhaust was out of line of sight.
+
+Flares exploit the simplistic nature of this temperature difference logic by creating a larger temperature difference so the missile tracks them instead. To combat this engineers changed what the IR camera is looking at essentially. With better sensor technology the missiles no longer look at just what is the brightest thing in the field of view, instead they look for airframe heating. As a plane flys it encounters air resistance which is essentially friction between the plane and the air. That friction heats up the plane (this is part of why the fastes aircraft require special materials). The temperature difference between the friction heated aircraft and the rest of the sky is measurable but still fairly small. There can certainly be other things in the missiles field of view that have a larger temperature difference, so the missile has to know what it's looking for. To solve this these missiles have a form of image recognition built into their computers so that they can recognize aircraft shaped temperature differences and target those specifically. That makes it much harder for flares to fool these missiles while also allowing the guidance computers do a better job figuring out where the target is going so the missile can get there first.
+
+Others have covered this in other ways but "Do they work exactly like in the movies?" No. If a missile goes past a target will it turn around to try again? No, at that point it has been defeated. Will a missile chase for over a minute while right behind a plane very slowly getting closer? No, most missiles travel far faster than the aircraft they're targeting and aren't going to slow down to give you time to think. Can you out maneuver a missile? Yes... But it's very very rare and will usually leave you in a very vulnerable position to the next missile. There are methods to reliably defeat missiles, but that isn't one usually.
+
+permalinkembedsavereportgive awardreply
+
+[–]prometheus2508 [score hidden] 54 minutes ago 
+I'll provide an addendum.
+
+"Heat" can be broken into three bands. Short, Medium and Long wave infrared. The hotter the object, the more shorter wave, higher energy per photon, infrared will be emitted as per the blackbody radiation. Things in the high hundreds and thousands of degrees F are short wave emitters, mid hundreds are medium wave, and things around 150-250 are long wave emitters.
+
+This is important because that high energy short wave is a lot easier to detect, and early heat sensors were predominately built around this. On jets, the only thing this hot are the afterburner plume or the turbine blades up the engine. This put constraints on how and when infrared missiles could be employed - when the target was in an afterburning state or when the shooter was "looking up the tailpipe" of the target.
+
+Later, sensors that could detect and prosecute medium wave infrared radiation were much more flexible in their employment. The exhaust trail of a jet is ripe with high temperature byproducts, and the engine heat would saturate through the body of an aircraft and provide enough radiation to be detected. This gives a wide range of aspects and elevation in which sufficient heat could be detected - pretty much everything except staring right at the aircrafts nose.
+
+Infrared tech is now going towards long wave radiation, where the skin friction of the air on the frame provides sufficient heat that can be detected. The biggest issue with this technology is the photons are quite a bit lower energy, and both internal thermal noise in the sensor and random fluctuations the atmosphere (foreground and background) contribute enough noise that the tracking problem becomes difficult. Not impossible, but difficult. At sufficient range, a target may only be a few pixels large, and if an errant photon from the horizon hits the sensor it could contribute enough energy to be about the same size of the target. Advanced filtering and other techniques are required to optimize how these sensors perform.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Vorengard [score hidden] an hour ago 
+When in doubt, assume the movies are portraying everything incorrectly.
+
+In this case, the big difference between the movies and real life is that missiles are wildly faster than planes. The classic visual of a pilot frantically dodging while a missile follows just on their tail is nonsense.
+
+permalinkembedsavereportgive awardreply
+load more comments (2 replies)
+
+[–]Habaneroe12 [score hidden] 3 hours ago 
+As Scott O’Grady pointed out, they are much, much faster than depicted in movies. Like no time to react at all fast and one nailed him brought the plane down.
+
+permalinkembedsavereportgive awardreply
+
+[–]fiendishrabbit [score hidden] 54 minutes ago 
+Eh. Heatseeking missiles are typically not super fast. Mach 2.5-3 (true for Sidewinders, Archers and Iris missiles. Which are the missiles in use with like 95% of all airforces).
+
+I mean, it's faster than in the movies but you usually have 2-6 seconds from launch to impact.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]zeiandren [score hidden] 6 hours ago 
+Historically they have been pretty simple, The first ones didn't track at all and just exploded when they got near something hotter than the empty sky, then the seeking ones were invented long before computers so they were just a rocket that had a ring of infrared sensors around the nose that would turn the rocket vaguely towards whatever was hottest. And they didn't really fly around chasing things as much as they would sort of vaguely auto correct a shot that went near a plane to a shot that hit the plane.
+
+Now that computers are a thing and missiles cost hundreds of thousands of dollars, they do act more like cartoon missiles where they can fly around chasing things all over. The line between missile and drone gets smaller by the day.
+
+permalinkembedsavereportgive awardreply
+
+[–]ImplodedPotatoSalad [score hidden] 5 hours ago* 
+Now that computers are a thing and missiles cost hundreds of thousands of dollars, they do act more like cartoon missiles where they can fly around chasing things all over.
+
+This is incorrect. Missiles do not "chase things all over". No matter the guidance type, radar, IR, whatever. The issue is not with computer guiding it. The issue is with engine burn time, which for short range missiles can be as short as <10-15 seconds (even less with MANPADS, shoulder fired missiles can have as little as 3-5 seconds of engine burn time and they are often supersonic by that time. Example, russian 9K32 Strela-2 launch engine burn is 0.5 second to leave the tube, followed by sustainer flight motor additional 2 seconds, with top speed of 960mph by the time engine burns out. It will self-liquidate after 14-17 seconds to avoid collateral ground damage if it fails to intercept). The rest of the flight is ballistic trajectory with fins directing the flight, until it no longer has enough energy to stay airborne.
+
+​
+
+What missile does, it computes shorterst intercept route for your current trajectory and goes to the projected intersection point. Which is not really what is usually shown in a movie. It does not "chase" you, its not energy efficient enough. The less turns it has to do, the less energy it bleeds off (which is one of defeat modes, others being misdirecting it - in case of IR homing - with an IR dazzler/jammer, or flares. You dont "outmaneuver" it as it is, especially with its engine running it has way more g load / turn rate capability than your aircraft structure can withstand, not even talking about the pilot...)
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]wattnurt [score hidden] 5 hours ago 
+(even less with MANPADS
+
+Wow, what an unfortunate name....
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ImplodedPotatoSalad [score hidden] 5 hours ago 
+Man Portable Air Defence System.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]inphosys [score hidden] 3 hours ago 
+After one is fired, does the operator need to go change his... MANPAD?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Metaphorazine [score hidden] 3 hours ago 
+Pretty sure they're disposable these days
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ImplodedPotatoSalad [score hidden] 3 hours ago 
+some are, some are possible to be reloaded by the operator.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Ricky_RZ [score hidden] 52 minutes ago 
+The operator or the launcher?
+
+Probably yes to both
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]andyavast [score hidden] 3 hours ago 
+For when he has a heavy manstruation.
+
+Some men prefer a MANPON
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]HikeEveryMountain [score hidden] 5 hours ago 
+Great explanation, thank you
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Magurtis [score hidden] 3 hours ago 
+I wouldn’t say the OP is incorrect completely. The missile type you’re speaking to, sure, but there’s a number of guidance systems and logic’s out there. The “chase” guidance does exist in a lot of the older and less efficient missiles. Usually referred to as “pure pursuit”.
+
+You’re correct about the way pro-nav works on calculating a intercept point, however there’s dramatically more nuances to it based on the missile and guidance system. Some of which have the sustainability to continue maneuvering.
+
+Once again, not saying what you said is wrong at all, but I dont want OP to think that the only existence is what you stated.
+
+Cheers!
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]prometheus2508 [score hidden] an hour ago 
+Disagree. "chase things all over" implies it'll turn around and re-engage.
+
+Trajectory is roughly linear. It'll arch and steer, of course, but the rate of closure of weapons is >1 mach, often pushing up to almost 5 mach in some cases (altitude, size of interceptor, engagement geometry).
+
+If a missile passes and doesn't intercept, it will not turn around. It's done. It's engine burned out a few seconds after launch and it's been coasting since. Turning around would take an arch with a radius measured in miles (high-gee maneuvers are a thing, but these are performed while engines are burning and delta-v is still available).
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]VertexBV [score hidden] an hour ago 
+The point is, if they miss the first time, they don't turn around and continue chasing you. In the movies they do.
+
+Note that real life torpedoes do turn around and try again. Their motor runs for several minutes,so they can "afford" it.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]eltrotter [score hidden] 3 hours ago 
+This is incorrect. Missiles do not "chase things all over"
+
+I think they were speaking figuratively.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]chadwicke619 [score hidden] an hour ago 
+Why do you think they were speaking figuratively? I mean, movies literally show missiles chasing people all over the place.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Infinitesima [score hidden] 4 hours ago 
+I love it when on reddit someone calls out someone else for their made up stuffs.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ImplodedPotatoSalad [score hidden] 3 hours ago* 
+I'd not say "made up", its just a very, very common misconception (especially if you see a video showing missile - i.e, SA-7 MANPADS have that issue - snaking on the sky, as in waving left and right due to the way their sensor works). And true, missiles and drones are starting to have some common points nowadays, like drone flight planning software using similar algorythms. And first guided missiles did use analog electric systems instead of electronics, so "now that computers are a thing" is also correct.
+
+​
+
+Also, stated cost is not far off tbh for an unit price. Missiles cost A LOT (can go easily at 100-200 thousands USD per missile for a MANPADS unit, and larger/more potent systems go well into millions per missile...which is still way cheaper than its intended target), hence the rise of directed energy weapon (laser and/or microwave beam) projects, like THOR, THEL or HELLADS for anti-drone / anti-artillery rounds work for example.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]could_use_a_snack [score hidden] an hour ago 
+Tl;dr missiles are crazy fast, and know where they are going before the are launched. Then take the shortest path.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Clovis69 [score hidden] 4 hours ago 
+The first ones didn't track at all and just exploded when they got near something hotter than the empty sky
+
+The first operational heat-seeking missiles did "track", in fact the AIM-9 Sidewinder started by leading the target it was tracking
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]ZANY_ALL_CAPS_NAME [score hidden] 4 hours ago* 
+The missile knows where it is at all times. It knows this because it knows where it isn't. by subtracting where it is, from where it isn't, or where it isn't, from where it is, whichever is greater, it obtains a difference, or deviation. The guidance sub-system uses deviations to generate corrective commands to drive the missile from a position where it is, to a position where it isn't, and arriving at a position where it wasn't, it now is. Consequently, the position where it is, is now the position that it wasn't, and it follows that the position where it was, is now the position that it isn't. In the event of the position that it is in is not the position that it wasn't, the system has acquired a variation. The variation being the difference between where the missile is, and where it wasn't. If variation is considered to be a significant factor, it too, may be corrected by the GEA. However, the missile must also know where it was. The missile guidance computance scenario works as follows: Because a variation has modified some of the information the missile has obtained, it is not sure just where it is, however it is sure where it isn't, within reason, and it knows where it was. It now subracts where it should be, from where it wasn't, or vice versa. By differentiating this from the algebraic sum og where it shouldn't be, and where it was. It is able to obtain a deviation, and a variation, which is called "error”.
+
+permalinkembedsavereportgive awardreply
+
+[–]impatientasallhell [score hidden] 3 hours ago 
+This is the least ELI5 answer I’ve ever seen, but you have my respect for keeping that logic straight.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]thiccancer [score hidden] an hour ago 
+This is basically a copypasta.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Joshposh70 [score hidden] an hour ago 
+https://youtu.be/bZe5J8SVCYQ
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]lolwatokay [score hidden] an hour ago 
+This is so old. I remember being sent this by email as an audio file by my uncle in the late 90s/early 00s. Does anyone actually know where it came from?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]_Deathhound_ [score hidden] 43 minutes ago 
+Thats classified
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]vandunks [score hidden] 2 hours ago 
+I was looking for this and I'm surprised that no one knows the reference.
+
+https://youtu.be/_LjN3UclYzU
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]dantooine1977 [score hidden] 3 hours ago 
+do pilots really say "Eagle 7, Fox 3" when firing?
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]SilentLongbow [score hidden] 3 hours ago 
+The fox code is very useful to tell friendlies about the type of guidance system the missile has.
+
+For example, Fox 1 being a semi-active homing system, the missile rides the radar of the firing aircraft all the way to the target. These have a low chance of hitting a friendly if you make sure to not lock them in the first place, and if a friendly gets locked by a Fox 3 at a similar time - active radar guidance, so the missile has its own radar it uses to guide itself to the target - then they know that it wasn’t a friendly’a missile or radar making their RWR go off and should take defensive action.
+
+So yes
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]dantooine1977 [score hidden] 3 hours ago 
+thanks - Independence Day was at least partly based on facts!
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Gamer_Jack_Gameson [score hidden] an hour ago 
+Yeah they do, but the Fox numbers are to identify which type of missile is firing, not which missile on the plane is firing (as seen in movies).
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]arcosapphire [score hidden] 55 minutes ago 
+Eh, even the notoriously inaccurate Independence Day got it right as far as I can remember. They shot AMRAAMs with a Fox 3 call. Granted, I don't entirely get why they were using low-yield A2A missiles to take down the mothership, but the Fox call was right.
+
+What's a movie where they get it wrong?
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (4 replies)
+
+[–]AnUnqualifiedOpinion [score hidden] 3 hours ago 
+Ok Jack Sparrow, back on your boat...
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]_Deathhound_ [score hidden] 44 minutes ago 
+Knew it had to be here somewhere!
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (2 replies)
+
+[–]Larry2Thumbs [score hidden] 6 hours ago 
+"Heat Seeking Missiles" is an antiquated term. These missiles were designed in the 70-80's to follow certain heat signatures given off by afterburners and destroy something above a certain temperature. This was when 8 bytes was a lot of experimental software with no direction or backing.
+
+Movies make all of this look way more sophisticated than it is/was. Chaff wouldn't be an adequate deterrent if this was as smart as Bond films make it out to be.
+
+Newer tech within 5th gen fighters and drones basically make this worthless for future air battles unless they can detect missiles from much further away than current abilities.
+
+permalinkembedsavereportgive awardreply
+
+[–]ImplodedPotatoSalad [score hidden] 5 hours ago 
+Chaff is an anti-radar countermeasure. I think you were going to say flares here. And correct - nowadays, against a modern missile like the AIM-9X, they are not as effective as against older systems.
+
+permalinkembedsaveparentreportgive awardreply
+load more comments (1 reply)
+
+[–]Clovis69 [score hidden] 4 hours ago 
+The first operational heat-seeking missile was designed in the late 1940s and was operational by 1956 with combat introduction in 1958.
+
+They don't just follow afterburner, while the first ones were sensitive enough to see engines of all types, later ones get sensitive enough that by the late 60s they can also home on the hot edges of fast moving fighters and bombers as leading edges and the noses get hot from friction.
+
+Since the early 1990s, many heat-seeking missiles also can see into the UV spectrum as many flares don't kick out UV but exhaust plumes and reflected light do.
+
+The advent of 5th generation fighters has not degraded the combat effectiveness of heat seekers as all 5th gen fighters have giant plumes of heat coming out of their engines.
+
+From front and forward quarter aspects, a LO type has a smaller detection radius than older types, but from the rear or above, they are just as vulnerable
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]baconhead [score hidden] an hour ago 
+Heat seeking is just another way of saying IR guided missiles which are definitely not antiquated.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]varialectio [score hidden] 6 hours ago 
+Interestingly, devices that could detect an airborne heat source were thought of in the run-up to WW2. R V Jones who later became well known for countering the German bombing "beams" was trying to build very sensitive IR detectors for that in the late 1930s. Unfortunately they weren't good enough to detect the heat of a piston engine exhaust at the range necessary for night-time bomber interception.
+
+permalinkembedsaveparentreportgive awardreply
+
+[–]Trinity_Actual [score hidden] 2 hours ago 
+So not sure if this analogy works but. Let's say you're in the dark trying to find a friend. Say your friend shines a torchlight around you. You fix your eyes on the torchlight and walk towards the person until you reach him.
+
+In this case, your eyes are the infrared sensor in the missile's nose and the torchlight is a heat source (and aircraft engine/afterburner). You/sensor lock onto the torch/heatsource and guide to the target.
+
+Now that was just one heat source. In reality there are a lot more background sources of heat (the sun, heat decoys/flares countermeasures). Which can confuse you.
+
+So if another friend wants to trick you into guiding to him in the dark. He just shines another torch which might make you walk to him instead.
+
+Modern heat seekers like the Aim-9X/Python 5 are designed to be able to somewhat distinguish between decoys and the actual target heat source. Hope this helped!
+
+permalinkembedsavereportgive awardreply
+[+][deleted] 6 hours ago (1 child)
+
+
+[–]VALE46GP [score hidden] 3 hours ago 
+This video from Curious Droid details the first proximity fuses very well: https://youtu.be/N0SgC78YFPc
+
+permalinkembedsavereportgive awardreply
+load more comments (1 reply)
+[+][deleted] an hour ago* (1 child)
+
+
+[–]Gamer_Jack_Gameson [score hidden] an hour ago 
+Inside the nose of the missile is an infrared sensor. The sensor is covered by a spinning disc, which has a hole in it. As the disc spins, another sensor keeps track of the hole's location. When the disc spins, the hole spins with it, and when the infrared sensor detects a bright spot (heat) through the hole, the sensor which keeps track of the hole's position will tell the missile to turn in the direction the hole was facing.
+
+So if you image the disc as a compass, and the hole is to the West (left) when it picks up a bright spot, the missile will turn to the left.
+
+This may be the design on an older missile. I'm not sure. An engineer told me how they work several years ago, and I thought it was really interesting.
