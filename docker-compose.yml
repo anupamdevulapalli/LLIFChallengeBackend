@@ -1,0 +1,16 @@
+version: '3.4'
+
+services:
+  backend:
+    image: adevula97/backend:latest
+    expose:
+      - "8080"
+    ports:
+      - "8080:8080"
+
+  frontend:
+    image: adevula97/frontend:latest
+    expose:
+      - "4200"
+    ports:
+      - "4200:4200"
